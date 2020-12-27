@@ -1,5 +1,9 @@
 # ReturnAverage-paths
-up to the user input the output will be the path crossed based on the user input 
+/*up to the user input the output will be the path crossed based on the user input 
+       public static double ReturnAverage(int value[],  int AS, int MIN, int MAX,o){
+     Function: ReturnAverage  Computes the  average of all  those  numbers in the  input array  in 
+       the  positive  range  [MIN, MAX]. The  maximum size  of the array is AS. But, the  array size 
+       could be smaller than AS in which case the end of input is represented by -999. */
 /*
 *************************************************************
 *              Student Name: SAIF NITHAM AL-JELANI          *
